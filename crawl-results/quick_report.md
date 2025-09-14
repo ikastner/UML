@@ -1,0 +1,10 @@
+# Rapport de crawl rapide - christophevandon.com
+
+## Statistiques
+- **Pages crawlées**: 15
+- **Pages 200 OK**: 15
+- **Score SEO moyen**: 73.3/100
+- **URLs dans sitemap**: 269
+
+## Pages analysées
+- [Christophe Vandon – peintures, dessins et photographies](http://christophevandon.com) - SEO: 50/100\n- [solitudes / 3. – Christophe Vandon](http://christophevandon.com/solitudes-3/) - SEO: 75/100\n- [Irving Penn, Grand Palais / 2. – Christophe Vandon](http://christophevandon.com/irving-penn-grand-palais-2/) - SEO: 75/100\n- [festival Circulations 2018 – 2 / Le Centquatre. – Christophe Vandon](http://christophevandon.com/festival-circulations-2018-2-le-centquatre/) - SEO: 75/100\n- [Déplacements / 1. – Christophe Vandon](http://christophevandon.com/deplacements/) - SEO: 75/100\n- [Marc Pataut / Jeu de Paume. – Christophe Vandon](http://christophevandon.com/marc-pataut-jeu-de-paume/) - SEO: 75/100\n- [diaporama – identites salling store Aarhus – Christophe Vandon](http://christophevandon.com/photographie/diaporama-identites-salling-store-aarhus/) - SEO: 75/100\n- [La photographie française – 1 / MEP. – Christophe Vandon](http://christophevandon.com/bettina-rheims-mep/) - SEO: 75/100\n- [Miss K / T – Christophe Vandon](http://christophevandon.com/item/miss-k-t/) - SEO: 75/100\n- [Identités / Identities – Christophe Vandon](http://christophevandon.com/items/identites/) - SEO: 75/100\n- [De l’après / suite. – Christophe Vandon](http://christophevandon.com/de-lapres-suite/) - SEO: 75/100\n- [Corps et animaux / Bodies and animals. – Christophe Vandon](http://christophevandon.com/item/corps-et-animaux/) - SEO: 75/100\n- [Orlan / MEP. – Christophe Vandon](http://christophevandon.com/orlan-mep/) - SEO: 75/100\n- [contemplations / 8. – Christophe Vandon](http://christophevandon.com/contemplations-8/) - SEO: 75/100\n- [une future série pleine d’aveuglement ! – Christophe Vandon](http://christophevandon.com/une-nouvelle-serie-grecque/) - SEO: 75/100\n
