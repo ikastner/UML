@@ -1,0 +1,30 @@
+2025-09-14 22:32:52,308 - INFO - Début du crawl de http://christophevandon.com
+2025-09-14 22:32:52,308 - INFO - Début de la découverte des URLs...
+2025-09-14 22:32:53,914 - INFO - robots.txt chargé depuis http://christophevandon.com/robots.txt
+2025-09-14 22:32:55,113 - INFO - Sitemap index détecté, chargement des sous-sitemaps...
+2025-09-14 22:32:55,836 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-posts-post-1.xml: 183 URLs
+2025-09-14 22:32:56,446 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-posts-page-1.xml: 52 URLs
+2025-09-14 22:32:57,053 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-posts-portfolio_item-1.xml: 22 URLs
+2025-09-14 22:32:57,658 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-taxonomies-category-1.xml: 5 URLs
+2025-09-14 22:32:58,260 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-taxonomies-post_format-1.xml: 1 URLs
+2025-09-14 22:32:58,862 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-taxonomies-portfolio-1.xml: 6 URLs
+2025-09-14 22:32:58,862 - INFO - Sitemap chargé: 269 URLs trouvées
+2025-09-14 22:47:52,295 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/d346c9d509b04a8605d04413b079aa3c
+2025-09-14 22:47:52,296 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fee5be3c410>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d346c9d509b04a8605d04413b079aa3c
+2025-09-14 22:47:52,297 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fee5afc4510>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d346c9d509b04a8605d04413b079aa3c
+2025-09-14 22:50:39,777 - INFO - Début du crawl de http://christophevandon.com
+2025-09-14 22:50:39,777 - INFO - Début de la découverte des URLs...
+2025-09-14 22:50:41,399 - INFO - robots.txt chargé depuis http://christophevandon.com/robots.txt
+2025-09-14 22:50:42,624 - INFO - Sitemap index détecté, chargement des sous-sitemaps...
+2025-09-14 22:50:43,340 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-posts-post-1.xml: 183 URLs
+2025-09-14 22:50:43,954 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-posts-page-1.xml: 52 URLs
+2025-09-14 22:50:44,569 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-posts-portfolio_item-1.xml: 22 URLs
+2025-09-14 22:50:45,179 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-taxonomies-category-1.xml: 5 URLs
+2025-09-14 22:50:45,784 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-taxonomies-post_format-1.xml: 1 URLs
+2025-09-14 22:50:46,394 - INFO - Sous-sitemap http://christophevandon.com/wp-sitemap-taxonomies-portfolio-1.xml: 6 URLs
+2025-09-14 22:50:46,394 - INFO - Sitemap chargé: 269 URLs trouvées
+2025-09-14 22:50:46,399 - INFO - Découverte terminée: 0 URLs trouvées
+2025-09-14 22:50:46,400 - INFO - Prise de screenshots...
+2025-09-14 22:50:46,400 - INFO - Audits Lighthouse pour 0 pages...
+2025-09-14 22:50:46,400 - INFO - Génération des rapports...
+2025-09-14 22:50:46,458 - INFO - Crawl terminé en 6.68 secondes
